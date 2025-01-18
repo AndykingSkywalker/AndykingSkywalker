@@ -1,4 +1,4 @@
-# Hi there, I'm AndykingSkywalker 👋
+# Hi there, I'm Andrew aka AndykingSkywalker 👋
 
 ## 🚀 About Me
 I'm a passionate developer with a love for all things technology. I enjoy working on innovative projects and constantly learning new skills to improve my craft.
