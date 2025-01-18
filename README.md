@@ -2,6 +2,7 @@
 
 ## 🚀 About Me
 I'm a passionate developer with a love for all things technology. I enjoy working on innovative projects and constantly learning new skills to improve my craft.
+
 I have been coding since 2021 and over that time I have built a number of projects across multiple languages and frameworks.
 
 - 🌱 I’m currently learning C# and Game Design.
